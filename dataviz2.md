@@ -1,4 +1,6 @@
 # Assignment 2: Visualizing Government Debt
+[Back to Portfolio](/portfolio) 
+
 For a class assignment, we used the online tool Flourish to visualize Debt-to-GDP ratio around the world and over recent years. The first visualization reflects 2019 ratios and was made on the OECD website.
 <iframe src="https://data.oecd.org/chart/6gMF" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gMF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
