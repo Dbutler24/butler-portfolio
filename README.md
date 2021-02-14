@@ -17,7 +17,7 @@ In class, we learned how to use the tool Flourish. Here is a visualization of th
 <div class="flourish-embed flourish-chart" data-src="visualisation/5255820"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Assignment 2
-See assignment 2 here(/assignment2)
+[See assignment 2 here](/assignment2)
 
 # Assignment 2: Visualizing Government Debt
 For a class assignment, we used the online tool Flourish to visualize Debt-to-GDP ratio around the world and over recent years. The first visualization reflects 2019 ratios and was made on the OECD website.
