@@ -16,6 +16,9 @@ Check back here for visualizations from class!
 In class, we learned how to use the tool Flourish. Here is a visualization of the positive and cumulative cases over time in King County.
 <div class="flourish-embed flourish-chart" data-src="visualisation/5255820"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+# Assignment 2
+See assignment 2 here(/assignment2)
+
 # Assignment 2: Visualizing Government Debt
 For a class assignment, we used the online tool Flourish to visualize Debt-to-GDP ratio around the world and over recent years. The first visualization reflects 2019 ratios and was made on the OECD website.
 <iframe src="https://data.oecd.org/chart/6gMF" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gMF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
