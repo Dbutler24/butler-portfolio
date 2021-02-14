@@ -10,7 +10,7 @@ This class marks my first foray into this material but I'm finding it really int
 I hope to learn how to create effective data visualizations and gain a basic understanding of the tools that can help me!
 
 # Portfolio
-Check back here for visualizations from class!
+[Assignment 2: Visualizing Government Debt](/dataviz2.md)
 
 # Class Example 
 In class, we learned how to use the tool Flourish. Here is a visualization of the positive and cumulative cases over time in King County.
