@@ -12,7 +12,7 @@ I hope to learn how to create effective data visualizations and gain a basic und
 # Portfolio
 [Assignment 2: Visualizing Government Debt](/dataviz2.md)
 
-[Assignment 3 & 4:Critique By Design](/dataviz3.md) 
+[Assignment 3 & 4: Critique By Design](/dataviz3.md) 
 
 # Class Example 
 In class, we learned how to use the tool Flourish. Here is a visualization of the positive and cumulative cases over time in King County.
