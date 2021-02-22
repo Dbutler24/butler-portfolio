@@ -1,16 +1,18 @@
-#Assignment 3 & 4: Critique by Design 
+# Assignment 3 & 4: Critique by Design 
 
-#Original Data Visualization
+# Original Data Visualization
 I chose this visualization because the information it provides resonated with me. The gap in access to a computer is especially pertinent during the pandemic and presents a real issue for students from lower income background. I thought that this dataviz was fairly straight forward, but I wanted to make a little more pointed and distinguish between smartphone access and computer access, the latter of which is more important to virtual learning.
+
 [Smartphone access nearly ubiquitous among teens, while having a home computer varies by income](/Screen Shot 2021-02-21 at 7.51.51 PM.png)
 
-#My Solution
+# My Solution
 When I saw the above data visualization, I liked the ultimate message of the information, but felt that the visualization was a bit lackluster. There's also a sameness to it that made it harder to immediately distinguish between the computer access and the smartphone access. I wanted to convey the main point, which is the gap in computer access in relation to household income and parents' education level. However, I also wanted to keep the point that smartphone access is nearly ubiquitous in comparison, but pare down the other demographics that are shown. Furthermore, I know that I perceive proportion or percentages better when depicted vertically rather than horizontally, so I decided on a column chart as opposed to bar chart. 
 
 Below is the wireframe solution I came up with. I used different colors to represent computer and smartphone access and I only kept the household income and education level categories, in addition to the overall U.S. Teens as a benchmark. From my user feedback I gleaned a few pieces of important insight. One user noted that it still took a little bit of time to understand all the information but ultimately their takeaway was what I intended; that teens are more likely to have access to a smartphone than a computer. Interestingly, this user looked at this data in the context of the current state of virtual learning, that it is concerning for certain groups of teens not to have access to a computer as that is more important for school than a smartphone. Another user expressed that the visualization was overall clear, but suggested to use different colors and to perhaps fade out the U.S. Teens columns since it's there as a benchmark and not the primary information. This feedback prompted me to adjust my visualization to two separate column charts that the user can toggle between. The first tab shows the percentage of teens who have smartphone access, while the second tab shows the percentage of teens who have computer access. Taking user feedback into account, I made the benchmark column gray. Although I had originally wanted to convey all the columns in one chart for side-by-side comparison, I actually find that toggling between the two charts makes more of an impact. When you toggle from "Smartphone" to "Computer", you can see the percentages physically drop, effectively communicating the problem.
+
 [Wireframe](/wireframe.jpg)
 
-#First Draft of Data Visualization
+# First Draft of Data Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/5358302"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-#Final Data Visualization
+# Final Data Visualization
 <div class="infogram-embed" data-id="ecf914e1-bf22-4a22-aa18-9b695129248d" data-type="interactive" data-title="Column Chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/ecf914e1-bf22-4a22-aa18-9b695129248d" style="color:#989898!important;text-decoration:none!important;" target="_blank">Column Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
