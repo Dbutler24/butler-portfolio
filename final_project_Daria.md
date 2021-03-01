@@ -45,4 +45,6 @@ This spreadsheet features some key data sets that I recreated from various sourc
 https://cmu.box.com/s/j9c4qo6hakypzn5dsdjwkdsdbikmnvy2
 
 # Completion of Final Project
-I plan to complete the final project using shorthand. I will create visualizations using a combination flourish and infogram. The visualizations will be interwoven with text providing context and a final call to action at the end.
+I plan to complete the final project using shorthand. I will create visualizations using a combination flourish and infogram. 
+
+The visualizations will be interwoven with text providing history and context, citing various articles and thought pieces on the subject. 
