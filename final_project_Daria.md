@@ -5,11 +5,11 @@ In my final project, I would like to show the status of media representation for
 
 I will start off by visualizing the percentage of Asian lead roles in Hollywood compared to the U.S. Asian population. I will further the understanding of this underrepresentation by visualizing the actual population of Asian Americans in the most popular TV show cities, which all boast a higher AAPI population than the United States as a whole and much higher than the percentage of Asians in lead roles. 
 
-Using data from my primary data source, the USC Annenberg Inclusion Initiative, I will visualize the amount of the top 100 films that have zero Asian speaking roles, as well as the percentage of Asians who occupy director and executive roles in Hollywood.
+Using data from my primary data source, the USC Annenberg Inclusion Initiative, I will visualize the amount of the top 100 films that have zero Asian speaking roles, as well as the percentage of Asians who occupy director and executive roles in Hollywood. Visualizing the percentage of AAPI representation over the years will show that representation fluctuates and is not firmly proportionate to the population
 
-I will juxtapose this data with the current increase in anti-Asian hate crimes in the U.S. Although the lack of representation cannot be directly blamed for this increase in racial violence, it does reinforce the importance of visibility and inclusion of Asian Americans as part of the American fabric, not merely foreigners.
+I plan to juxtapose this data with the current increase in anti-Asian hate crimes in the U.S. Although the lack of representation cannot be directly blamed for this increase in racial violence, it does reinforce the importance of visibility and inclusion of Asian Americans as part of the American fabric, not merely foreigners.
 
-Recent movies like "Crazy Rich Asians" and "The Farewell", both with majority Asian casts, show that there is progress in terms of diversity in Hollywood. However, there is still a long way to go. I hope this data will show the severity of the lack of representation, but will encourage the audience to seek out more diverse stories, as viewership is what ultimately leads to increased visibility and representation. 
+Recent movies like "Crazy Rich Asians" and "The Farewell", both with majority Asian casts, show that there is progress in terms of diversity in Hollywood. However, there is still a long way to go, particularly with including Asian Americans in director and executive roles. I hope this data will show the severity of the lack of representation, but will encourage the audience to seek out more diverse stories, as viewership is what ultimately leads to increased visibility and representation. 
 
 # Sketches
 [Timeline of Films with Asian-Majority Casts](/timeline.jpg)
@@ -43,3 +43,6 @@ http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020
 # Excel Sheet of Recreated Data Sets
 This spreadsheet features some key data sets that I recreated from various sources.
 https://cmu.box.com/s/j9c4qo6hakypzn5dsdjwkdsdbikmnvy2
+
+# Completion of Final Project
+I plan to complete the final project using shorthand. I will create visualizations using a combination flourish and infogram. The visualizations will be interwoven with text providing context and a final call to action at the end.
