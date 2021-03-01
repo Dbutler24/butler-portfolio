@@ -1,4 +1,6 @@
 # Part I: Final Project
+[Back to Portfolio](/README.md)
+
 In my final project, I would like to show the status of media representation for AAPI (Asian American and Pacific Islanders), namely in film and television. Despite what may seem like an increase in representation on screen for people of color, data actually suggests that not all much progress has been achieved. I intend to show how AAPI representation is missing from both in front of and behind the camera in Hollywood.
 
 I will start off by visualizing the percentage of Asian lead roles in Hollywood compared to the U.S. Asian population. I will further the understanding of this underrepresentation by visualizing the actual population of Asian Americans in the most popular TV show cities, which all boast a higher AAPI population than the United States as a whole and much higher than the percentage of Asians in lead roles. 
