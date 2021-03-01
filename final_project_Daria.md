@@ -37,11 +37,11 @@ Source: https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-repr
 Source: https://www.qchron.com/editions/queenswide/anti-asian-hate-crime-jumps-1-900-percent/article_f007a05b-f43e-54ca-a3c6-1b5493333dea.html
 
 # Primary Data Source
-I will primarily use the data sets found in the USC Annenberg Inclusion Initiative's reports on inequality in film.
+I will primarily use the data sets found in the USC Annenberg Inclusion Initiative's reports on inequality in film:
 http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf
 
 # Excel Sheet of Recreated Data Sets
-This spreadsheet features some key data sets that I recreated from various sources.
+This spreadsheet features some key data sets that I recreated from various sources:
 https://cmu.box.com/s/j9c4qo6hakypzn5dsdjwkdsdbikmnvy2
 
 # Completion of Final Project
