@@ -24,11 +24,11 @@ Source: http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09
 
 [Asian Lead Roles in Film is Disproportionate to Asian Population](/piecharts.jpg)
 
-Source: https://time.com/5622913/asian-american-representation-hollywood/![image]
+Source: https://time.com/5622913/asian-american-representation-hollywood/
 
 [Asian Population in Popular TV Show Cities](/populations.jpg)
 
-Source: https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html![image]
+Source: https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html
 
 [Rise in Anti-Asian Hate Crimes](/line .jpg)
 
