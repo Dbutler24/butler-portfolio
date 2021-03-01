@@ -14,7 +14,7 @@ Recent movies like "Crazy Rich Asians" and "The Farewell", both with majority As
 
 Source: https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html
 
-[Bar Chart: Amount og Top 100 Films that Erased Asian Girls/Women](/bar chart.jpg)
+[Bar Chart: Amount og Top 100 Films that Erased Asian Girls and Women](/bar chart.jpg)
 
 Source:http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf
 
