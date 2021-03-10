@@ -61,3 +61,11 @@ User #4:
 6. "The general TV and movie-watching public."
 7. "Maybe instead of just "consume more media" I might encourage TV/movie watchers to support Asian representation with their $$$: buy tickets, buy movies, etc."
 8. No. 
+
+# Changes to Implement
+A common piece of feedback I received was about the incorporation of anti-Asian violence. Users felt that it was relevant but a little abrupt. One user suggested tying it into the story sooner, while other suggested including more data that could transition into it more seemlessly. I plan to try and find more data on the types of problematic representation that leads to this xenophobic mentality that will create a better bridge to that data. I will also shows the actual numbers of hate crimes in addition to just the percentage increase.
+
+I will also adjust the language in my first call to action to encourage consumers to "vote with their dollar" - buy tickets to these movies, etc. In the second call to action, I will include a link to a resource people can use to find more of this content.
+A couple users noted that they wanted more clarity on what kinds of films were included in this study. I will clarify that this refers to domestic Hollywood films; it does not include Asian-made movies (which do, naturally, depict more Asians on-screen). 
+
+One user felt that the chart titles were too loaded while another peer said that the chart titles felt appropriate. I plan to revisit these and perhaps condense a few, but I feel generally content with them. 
