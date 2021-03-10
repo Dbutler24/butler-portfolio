@@ -15,6 +15,7 @@ Interview script:
 8. Do you have any other feedback, particularly visually and narratively?
 
 Interview Findings:
+
 User #1: 
 - White woman, late twenties  
 1. Yes.
