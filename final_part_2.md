@@ -1,5 +1,6 @@
 # Final Project: Part II
 [Back to Portfolio](/README.md)
+
 [See Part I of Final Project](/final_project_Daria.md)
 # User Research Protocol 
 My target audience for this data story is a general movie-going, TV-watching public. It may include Asian Americans but is more geared towars non-Asians who consume media. The individuals that I chose to interview fit that demographic as they show an interest in media more generally. They may consume a wide array of genres but are not necessarily film buffs or into niche genres. Three of them are white and one is Asian American.
