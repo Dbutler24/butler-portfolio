@@ -1,3 +1,5 @@
+
+
 # Final Project: Part II
 [Back to Portfolio](/README.md)
 
@@ -7,7 +9,7 @@
 Preview Link: https://preview.shorthand.com/TdWodsXiMw4liPQ2
 
 # User Research Protocol 
-My target audience for this data story is a general movie-going, TV-watching public. It may include Asian Americans but is more geared towars non-Asians who consume media. The individuals that I chose to interview fit that demographic as they show an interest in media more generally. They may consume a wide array of genres but are not necessarily film buffs or into niche genres. Three of them are white and one is Asian American.
+My target audience for this data story is a general movie-going, media-consuming public. This audience may include Asian Americans, but this story is more geared towards a non-Asian demographic with a general interest in consuming film/tv. In terms of selecting interviewees, I thought of individuals who have an appreciation for film/tv, but do not work in the film/tv industry themselves. They represent the average movie-goer. They may consume a wide array of genres but are not necessarily film buffs or into niche genres. Three of them are white, as that group is more likely to not already be aware of this information. I did interview one Asian American though to gain another perspective - besides just my own - representing that identity.
 
 Interview script:
 
@@ -17,7 +19,7 @@ Interview script:
 4. Did the story make sense to you? Was there anything out of place?
 5. Were any of the images/pics odd or distracting? 
 6. Who do you think the target audience is?
-7. Do you think there are any other calls to action that should be included or did you feel moved to any other actions?
+7. Do you think there are any other calls to action that should be included, or did you feel moved to any other actions?
 8. Do you have any other feedback, particularly visually and narratively?
 
 Interview Findings:
@@ -27,10 +29,10 @@ User #1:
 1. Yes.
 2. No.
 3. For the data that is written in text, perhaps put it into a more prominent box or use an infogram.
-4. The story made sense. Include a transition into anti-Asian violence but it generally feels relevant.
+4. "The story made sense. Maybe include a transition into anti-Asian violence but it generally feels relevant."
 5. No.
-6. Any consumer of media. It could speak to creators but also to consumers. 
-7. It seems very awareness-oriented. It's good that you provide resources.
+6. "Any consumer of media. It could speak to creators but also to consumers." 
+7. "It seems very awareness-oriented. It's good that you provide resources."
 8. Alternate the text and image column orientation so it's not just graphs on the right side the whole time.
 
 User #2:
@@ -41,7 +43,7 @@ User #2:
 4. "It made sense. The violence point feels a bit out of left field. You could introduce it sooner so it doesn't feel so abrupt."
 5. Good images but you should probably include a photo of an Asian person.
 6. "Young people. I don't feel like it's directed at Asians except for to support the narrative. It feels very accessible and directed to audiences, not the industry."
-7. Good calls to action. Include "vote with you wallets" language. 
+7. Good calls to action. Include "vote with your wallets" language. 
 8. "Center some things to break up the orientation."
 
 Additional Feedback: "Define AAPI for the audience. Also clarify what films are being included - is it just domestic films? Independent films?"
@@ -65,13 +67,13 @@ User #4:
 4. Yes. "Great, clear, logical flow."
 5. "The images were great, and I totally get the limitations. Though I will say that starting a presentation about AAPI representation with a stock photo of mostly white people is a bit funky."
 6. "The general TV and movie-watching public."
-7. "Maybe instead of just "consume more media" I might encourage TV/movie watchers to support Asian representation with their $$$: buy tickets, buy movies, etc."
+7. "Maybe instead of just 'consume more media' I might encourage TV/movie watchers to support Asian representation with their $$$: buy tickets, buy movies, etc."
 8. No. 
 
 # Changes to Implement
-A common piece of feedback I received was about the incorporation of anti-Asian violence. Users felt that it was relevant but a little abrupt. One user suggested tying it into the story sooner, while other suggested including more data that could transition into it more seemlessly. I plan to try and find more data on the types of problematic representation that leads to this xenophobic mentality that will create a better bridge to that data. I will also shows the actual numbers of hate crimes in addition to just the percentage increase.
+A common piece of feedback I received was about the incorporation of anti-Asian violence. Users felt that it was relevant but a little abrupt. One user suggested tying it into the story sooner, while other suggested including more data that could help transition into it more seamlessly. I plan to try and find more data on the types of problematic representation that leads to this xenophobic mentality that will create a better bridge to that data point. I will also show the actual numbers of hate crimes in addition to just the percentage increase.
 
-I will also adjust the language in my first call to action to encourage consumers to "vote with their dollar" - buy tickets to these movies, etc. In the second call to action, I will include a link to a resource people can use to find more of this content.
+Further, based on frequent feedback, I will adjust the language in my first call to action to encourage consumers to "vote with their dollar" - buy tickets to these movies, etc. In the second call to action, I will include a link to a resource people can use to find more of this content.
 A couple users noted that they wanted more clarity on what kinds of films were included in this study. I will clarify that this refers to domestic Hollywood films; it does not include Asian-made movies (which do, naturally, depict more Asians on-screen). 
 
-One user felt that the chart titles were too loaded while another peer said that the chart titles felt appropriate. I plan to revisit these and perhaps condense a few, but I feel generally content with them. 
+One user felt that the chart titles were too "loaded" while another peer said that the chart titles felt appropriate. No other users commented on the chart titles either way. I will revisit these and perhaps condense a few, but I feel generally content with them. 
