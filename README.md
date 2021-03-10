@@ -15,6 +15,7 @@ I hope to learn how to create effective data visualizations and gain a basic und
 [Assignment 3 & 4: Critique By Design](/dataviz3.md) 
 
 [Part I: Final Project](/final_project_Daria.md)
+
 [Part II: Final Project](/final_part_2.md)
 
 # Class Example 
