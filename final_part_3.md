@@ -22,6 +22,8 @@ I also tried visualizing the line graph on Asian Directors differently because I
 
 I received several pieces of feedback regarding the calls to action, so I clarified that viewers should "vote with their dollar" and give money to AAPI stories if they want to see more representation on screen. I included several lists of content that the viewer can check out. 
 
+Visually, I added and changed some images. I tweaked the orientation of some of the text and visualizations and added spacers so that there wouldn't be so much information clumped together.
+
 References: 
 
 UCLA. “2020 Hollywood Diversity Report: A Different Story behind the Scenes.” Accessed February 28, 2021. https://newsroom.ucla.edu/releases/2020-hollywood-diversity-report.
