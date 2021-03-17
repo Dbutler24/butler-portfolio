@@ -6,8 +6,20 @@
 
 [Return to Portfolio](/README.md)
 
+Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 
+For my final data story, the target audience is a the average movie-goer/media consumer. Based on findings from my user research, I have narrowed down this audience to a predominantly non-Asian demographic with a general interest in movies and television. As one of my users said, this story could resonate with creators/fimmakers, but most users, and I, felt that it's catered more towards the consumer. 
 
+I wanted to include a better transition into my final point about the rise in anti-Asian violence, which was feedback I received from users and peers. I struggled to find specific numbers on the amount of representation that is offensive or problematic, so instead I included a list of problematic Asian portrayals and common tropes/stereotypes so the audience at least has some idea of what this kind of negative representation might look like in media. I also included a couple of quotes from Asian-Americans on representation and the violence, specifically. I think this will help create a bridge to that final visualization. 
+
+In addition, I chose to visualize the increase in anti-Asian violence differently in the final version. Instead of using a scorecard to state the 
+"1900% increase" statistic, I visualized the increase in incident reports that the organization Stop AAPI Hate  received in 2020. Based on feedback to show the values instead of the percentage, I depicted the increase to at least 3000 incident reports, up from approximately 100 in previous years. 
+
+Furthermore, I clarified for the audience that this data story is focusing on U.S. domestic film and TV, exclusively. This needed to be specified because film and TV made in Asia, for example, would naturally include more Asian representation. It was unclear to one user what exactly this story was measuring. 
+
+I also tried visualizing the line graph on Asian Directors differently because I received feedback that the dip was distracting. However, there was no way around that dip. I addressed this in the text below, however, to clarify that there were simply no Asian directors in the top 100 grossing films that year, and not that there was any data missing. 
+
+I received several pieces of feedback regarding the calls to action, so I clarified that viewers should "vote with their dollar" and give money to AAPI stories if they want to see more representation on screen. I included several lists of content that the viewer can check out. 
 
 References: 
 
