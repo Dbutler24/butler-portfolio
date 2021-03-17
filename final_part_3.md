@@ -6,6 +6,7 @@
 
 [Return to Portfolio](/README.md)
 
+# Target Audience and Changes Made to Final Story
 Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 
 For my final data story, the target audience is a the average movie-goer/media consumer. Based on findings from my user research, I have narrowed down this audience to a predominantly non-Asian demographic with a general interest in movies and television. As one of my users said, this story could resonate with creators/fimmakers, but most users, and I, felt that it's catered more towards the consumer. 
