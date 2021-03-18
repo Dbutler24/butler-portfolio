@@ -44,12 +44,12 @@ Resolution: Recent movies like "Crazy Rich Asians" and "The Farewell", both with
 
 
 # Primary Data Source
-I will primarily use the data sets found in the USC Annenberg Inclusion Initiative's reports on inequality in film:
-http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf
+I will primarily use the data sets found in the USC Annenberg Inclusion Initiative's reports on inequality in film.
+[See report here](http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf)
 
 # Excel Sheet of Recreated Data Sets
-This spreadsheet features some key data sets that I recreated from various sources [here]
-(https://cmu.box.com/s/j9c4qo6hakypzn5dsdjwkdsdbikmnvy2)
+This spreadsheet features some key data sets that I recreated from various sources.
+[See spreadsheet here](https://cmu.box.com/s/j9c4qo6hakypzn5dsdjwkdsdbikmnvy2)
 
 # Completion of Final Project
 I plan to complete the final project using shorthand. I will create visualizations using a combination flourish and infogram. 
