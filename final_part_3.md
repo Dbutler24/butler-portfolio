@@ -119,7 +119,7 @@ User #4:
 8. No. 
 
 # Changes to Implement
-A common piece of feedback I received was about the incorporation of anti-Asian violence. Users felt that it was relevant but a little abrupt. One user suggested tying it into the story sooner, while other suggested including more data that could help transition into it more seamlessly. I plan to try and find more data on the types of problematic representation that leads to this xenophobic mentality that will create a better bridge to that data point. I will also show the actual numbers of hate crimes in addition to just the percentage increase.
+A common piece of feedback I received was about the incorporation of anti-Asian violence. Users felt that it was relevant but a little abrupt. One user suggested tying it into the story sooner, while others suggested including more data that could help transition into it more seamlessly. I plan to try and find more data on the types of problematic representation that leads to this xenophobic mentality that will create a better bridge to that data point. I will also show the actual numbers of hate crimes in addition to just the percentage increase.
 
 Further, based on frequent feedback, I will adjust the language in my first call to action to encourage consumers to "vote with their dollar" - buy tickets to these movies, etc. In the second call to action, I will include a link to a resource people can use to find more of this content.
 A couple users noted that they wanted more clarity on what kinds of films were included in this study. I will clarify that this refers to domestic Hollywood films; it does not include Asian-made movies (which do, naturally, depict more Asians on-screen). 
@@ -136,23 +136,26 @@ One user felt that the chart titles were too "loaded" while another peer said th
 
 [Return to Portfolio](/README.md)
 
+# Final Shorthand Site
+
+
 # Target Audience and Changes Made to Final Story
-Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+For my final data story, the target audience is the average movie-goer/media consumer. Based on findings from my user research, I have narrowed down this audience to a predominantly non-Asian demographic with a general interest in movies and television. As one of my users said, this story could potentially resonate with creators/filmmakers. However, I, and most users, felt that it's catered more towards the average consumer. 
 
-For my final data story, the target audience is a the average movie-goer/media consumer. Based on findings from my user research, I have narrowed down this audience to a predominantly non-Asian demographic with a general interest in movies and television. As one of my users said, this story could resonate with creators/fimmakers, but most users, and I, felt that it's catered more towards the consumer. 
+Given this audience, I made sure to define "AAPI" and clarify what type of film/TV was being looked at in this story: U.S. domestic movies and television. This needed to be specified because film and TV made in Asia, for example, would naturally include more Asian representation. It was unclear to a couple users what exactly this story was measuring. 
 
-I wanted to include a better transition into my final point about the rise in anti-Asian violence, which was feedback I received from users and peers. I struggled to find specific numbers on the amount of representation that is offensive or problematic, so instead I included a list of problematic Asian portrayals and common tropes/stereotypes so the audience at least has some idea of what this kind of negative representation might look like in media. I also included a couple of quotes from Asian-Americans on representation and the violence, specifically. I think this will help create a bridge to that final visualization. 
+Further, I wanted to include a better transition into my final point about the rise in anti-Asian violence, which was feedback I received from some users and peers. Notably, some non-Asian users felt that the violence point was abrupt; however, it should be noted that the Asian-American user felt it was a logical transition and made sense. But since this is meant for a non-Asian audience, I wanted to take their note into consideration. I wanted to find data on the types of AAPI representation that are harmful but I struggled to find specific numbers, so instead I included a list of problematic Asian portrayals and common tropes/stereotypes so the audience at least has some idea of what this kind of negative representation might look like in media. I also included a couple of quotes from Asian-Americans on representation and racial violence, specifically. I think this will help create a bridge to that final visualization. 
 
 In addition, I chose to visualize the increase in anti-Asian violence differently in the final version. Instead of using a scorecard to state the 
-"1900% increase" statistic, I visualized the increase in incident reports that the organization Stop AAPI Hate  received in 2020. Based on feedback to show the values instead of the percentage, I depicted the increase to at least 3000 incident reports, up from approximately 100 in previous years. 
+"1900% increase" statistic, I visualized the increase in incident reports that the coalition Stop AAPI Hate received in 2020. Based on feedback to show the values instead of the percentage, I depicted the increase in numbers, which went from approximately 100 in previous years to at least 30,00 in 2020.
 
-Furthermore, I clarified for the audience that this data story is focusing on U.S. domestic film and TV, exclusively. This needed to be specified because film and TV made in Asia, for example, would naturally include more Asian representation. It was unclear to one user what exactly this story was measuring. 
+I also tried visualizing the line graph on Asian Directors differently because I received feedback that the dip was distracting. However, there was no way around that dip. I addressed the dip in the text below, however, to clarify that there were simply no Asian directors in the top 100 grossing films that year, and not that there was any data missing. 
 
-I also tried visualizing the line graph on Asian Directors differently because I received feedback that the dip was distracting. However, there was no way around that dip. I addressed this in the text below, however, to clarify that there were simply no Asian directors in the top 100 grossing films that year, and not that there was any data missing. 
+Moreover, I received several pieces of feedback to make the second call to action stronger, so I clarified that viewers should "vote with their dollar" and give money to AAPI stories if they wish to see more representation on screen. I also included several lists of content as a resource that the viewer can check out. 
 
-I received several pieces of feedback regarding the calls to action, so I clarified that viewers should "vote with their dollar" and give money to AAPI stories if they want to see more representation on screen. I included several lists of content that the viewer can check out. 
+Visually, I added and swapped in some images that felt more relevant to the topic (One user noted that the top image depicted mostly white people which felt odd for the subject). I tweaked the orientation of some of the text and visualizations and added spacers so that there wouldn't be so much information clumped together. As for color, one peer thought that maybe the color in the graphs matched the background too well, but I didn't receive that feedback from anyone else so I maintained the colors for the sake of consistency. 
 
-Visually, I added and changed some images. I tweaked the orientation of some of the text and visualizations and added spacers so that there wouldn't be so much information clumped together.
+My biggest takeaway/observation is, for however much data there already is, there can always be more. There is quite a bit of data on the amounts of representation, but no data on the types of representation. I note in my story that not all representation is good or authentic representation. I would like to see more studies done and data collected on what kinds of representation are out there and the implications of that. 
 
 # References: 
 
@@ -174,7 +177,7 @@ Bureau, US Census. “Asian American and Pacific Islander Heritage Month: May 20
 
 ———. “Asian American and Pacific Islander Heritage Month: May 2020.” The United States Census Bureau. Accessed March 7, 2021. https://www.census.gov/newsroom/facts-for-features/2020/aian.html.
 
-Chin, Christina B., Meera E. Deo, Faustina M. DuCros, Jenny Jong-Hwa Lee, Noriko Milman, and Nancy Wang Yuen. "Tokens on the Small Screen: Asian Americans and Pacific Islanders in Prime Time and Streaming Television." September 2017.
+Chin, Christina B., Meera E. Deo, Faustina M. DuCros, Jenny Jong-Hwa Lee, Noriko Milman, and Nancy Wang Yuen. "Tokens on the Small Screen: Asian Americans and Pacific Islanders in Prime Time and Streaming Television." September 2017. http://www.aapisontv.com/uploads/3/8/1/3/38136681/aapisontv.2017.pdf.![image](https://user-images.githubusercontent.com/78741996/111561873-91a9b200-876b-11eb-90fe-1489638e3e97.png)
 
 Chong, Christina Shu Jien. “Where Are the Asians in Hollywood? Can §1981, TITLE VII, Colorblind Pitches, and Understanding Biases Break the Bamboo Ceiling?” 21 (n.d.): 53.
 
@@ -194,8 +197,6 @@ Force, Thessaly La. “Why Do Asian-Americans Remain Largely Unseen in Film and 
 
 “Hollywood Doesn’t Fully Represent Asian Americans Yet.” Accessed February 22, 2021. https://www.vice.com/en/article/7xggba/hollywood-doesnt-fully-represent-asian-americans-yet.
 
-Huh, Min. “Media Representation of Asian Americans and Asian Native New Yorkers’ Hybrid Persona,” n.d., 39.
-
 Izadi, Elahe. “The Oscars Nominated ‘Parasite’ but Looked Right Past Its All-Asian Cast. It’s Part of a Pattern.” Washington Post. Accessed February 28, 2021. https://www.washingtonpost.com/arts-entertainment/2020/02/07/parasite-oscars-asian-actors/.
 
 “Key Facts about Asian Americans | Pew Research Center.” Accessed March 7, 2021. https://www.pewresearch.org/fact-tank/2017/09/08/key-facts-about-asian-americans/.
@@ -207,8 +208,6 @@ Mandell, Andrea. “Oscar Nominations: Asians Are Shut out, Again. So Are Female
 Monji, Jana. “What to Watch During Asian Pacific American Heritage Month | Far Flungers | Roger Ebert.” https://www.rogerebert.com/. Accessed March 17, 2021. https://www.rogerebert.com/far-flung-correspondents/what-to-watch-during-asian-pacific-american-heritage-month.
 
 Morgan, Thad. “Casting White People in Asian Roles Goes Back Centuries.” HISTORY. Accessed March 15, 2021. https://www.history.com/news/yellowface-whitewashing-in-film-america.
-
-NW, 1615 L. St, Suite 800Washington, and DC 20036USA202-419-4300 | Main202-857-8562 | Fax202-419-4372 | Media Inquiries. “Chapter 1: Portrait of Asian Americans.” Pew Research Center’s Social & Demographic Trends Project (blog), June 19, 2012. https://www.pewresearch.org/social-trends/2012/06/19/chapter-1-portrait-of-asian-americans/.
 
 ———. “U.S. Population Projections: 2005-2050.” Pew Research Center’s Hispanic Trends Project (blog), February 11, 2008. https://www.pewresearch.org/hispanic/2008/02/11/us-population-projections-2005-2050/.
 
