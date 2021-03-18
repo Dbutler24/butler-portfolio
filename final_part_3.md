@@ -154,7 +154,7 @@ I received several pieces of feedback regarding the calls to action, so I clarif
 
 Visually, I added and changed some images. I tweaked the orientation of some of the text and visualizations and added spacers so that there wouldn't be so much information clumped together.
 
-References: 
+# References: 
 
 Abrams, Zara. “Countering Stereotypes about Asian Americans.” Accessed March 15, 2021. https://www.apa.org/monitor/2019/12/countering-stereotypes.
 
