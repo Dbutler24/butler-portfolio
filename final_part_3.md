@@ -23,27 +23,27 @@ Data Source:http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_film
 
 [Films with Zero Asian Speaking Roles](/block.jpg)
 
-Data Source: http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf
+[Data Source](http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf)
 
 [Asian Lead Roles in Film is Disproportionate to Asian Population](/piecharts.jpg)
 
-Data Source: https://time.com/5622913/asian-american-representation-hollywood/
+[Data Source](https://time.com/5622913/asian-american-representation-hollywood/)
 
 [Asian Population in Popular TV Show Cities](/populations.jpg)
 
-Data Source: https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html
+[Data Source](https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html)
 
 [Rise in Anti-Asian Hate Crimes](/line.jpg)
 
-Data Source: https://www.qchron.com/editions/queenswide/anti-asian-hate-crime-jumps-1-900-percent/article_f007a05b-f43e-54ca-a3c6-1b5493333dea.html
+[Data Source](https://www.qchron.com/editions/queenswide/anti-asian-hate-crime-jumps-1-900-percent/article_f007a05b-f43e-54ca-a3c6-1b5493333dea.html)
 
 # Primary Data Source
 I will primarily use the data sets found in the USC Annenberg Inclusion Initiative's reports on inequality in film:
 http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf
 
 # Excel Sheet of Recreated Data Sets
-This spreadsheet features some key data sets that I recreated from various sources:
-https://cmu.box.com/s/j9c4qo6hakypzn5dsdjwkdsdbikmnvy2
+This spreadsheet features some key data sets that I recreated from various sources [here]
+(https://cmu.box.com/s/j9c4qo6hakypzn5dsdjwkdsdbikmnvy2)
 
 # Completion of Final Project
 I plan to complete the final project using shorthand. I will create visualizations using a combination flourish and infogram. 
@@ -54,7 +54,7 @@ The visualizations will be interwoven with text providing history and context, c
 # Part II: Design and User Research
 
 # Shorthand Draft
-Preview Link: https://preview.shorthand.com/TdWodsXiMw4liPQ2
+[Preview Link](https://preview.shorthand.com/TdWodsXiMw4liPQ2)
 
 # User Research Protocol 
 My target audience for this data story is a general movie-going, media-consuming public. This audience may include Asian Americans, but this story is more geared towards a non-Asian demographic with a general interest in consuming film/tv. In terms of selecting interviewees, I thought of individuals who have an appreciation for film/tv, but do not work in the film/tv industry themselves. They represent the average movie-goer. They may consume a wide array of genres but are not necessarily film buffs or into niche genres. Three of them are white, as that group is more likely to not already be aware of this information. I did interview one Asian American though to gain another perspective - besides just my own - representing that identity.
