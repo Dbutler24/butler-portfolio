@@ -1,9 +1,7 @@
 # Final Project: Parts I, II, and III
-
-
-# Part I: The Idea
 [Back to Portfolio](/README.md)
 
+# Part I: The Idea
 In my final project, I would like to show the status of media representation for AAPI (Asian American and Pacific Islanders), namely in film and television. Despite what may seem like an increase in representation on screen for people of color, data actually suggests that not all much progress has been achieved. I intend to show how AAPI representation is missing from both in front of and behind the camera in Hollywood.
 
 Set-up: I will start off by visualizing the percentage of Asian lead roles in Hollywood compared to the U.S. Asian population. I will further the understanding of this underrepresentation by visualizing the actual population of Asian Americans in the most popular TV show cities, which all boast a higher AAPI population than the United States as a whole and much higher than the percentage of Asians in lead roles. 
@@ -17,27 +15,27 @@ Resolution: Recent movies like "Crazy Rich Asians" and "The Farewell", both with
 # Sketches
 [Timeline of Films with Asian-Majority Casts](/timeline.jpg)
 
-Source: https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html
+Data Source: https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html
 
 [Bar Chart: Amount og Top 100 Films that Erased Asian Girls and Women](/barchart.jpg)
 
-Source:http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf
+Data Source:http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf
 
 [Films with Zero Asian Speaking Roles](/block.jpg)
 
-Source: http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf
+Data Source: http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf
 
 [Asian Lead Roles in Film is Disproportionate to Asian Population](/piecharts.jpg)
 
-Source: https://time.com/5622913/asian-american-representation-hollywood/
+Data Source: https://time.com/5622913/asian-american-representation-hollywood/
 
 [Asian Population in Popular TV Show Cities](/populations.jpg)
 
-Source: https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html
+Data Source: https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html
 
 [Rise in Anti-Asian Hate Crimes](/line.jpg)
 
-Source: https://www.qchron.com/editions/queenswide/anti-asian-hate-crime-jumps-1-900-percent/article_f007a05b-f43e-54ca-a3c6-1b5493333dea.html
+Data Source: https://www.qchron.com/editions/queenswide/anti-asian-hate-crime-jumps-1-900-percent/article_f007a05b-f43e-54ca-a3c6-1b5493333dea.html
 
 # Primary Data Source
 I will primarily use the data sets found in the USC Annenberg Inclusion Initiative's reports on inequality in film:
