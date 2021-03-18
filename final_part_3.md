@@ -156,12 +156,9 @@ Visually, I added and changed some images. I tweaked the orientation of some of 
 
 References: 
 
+Abrams, Zara. “Countering Stereotypes about Asian Americans.” Accessed March 15, 2021. https://www.apa.org/monitor/2019/12/countering-stereotypes.
+
 UCLA. “2020 Hollywood Diversity Report: A Different Story behind the Scenes.” Accessed February 28, 2021. https://newsroom.ucla.edu/releases/2020-hollywood-diversity-report.
-
-“Aapac_2015-2016_10year_report.Pdf.” Accessed February 22, 2021. http://www.aapacnyc.org/uploads/1/1/9/4/11949532/aapac_2015-2016_10year_report.pdf.
-
-America, Kimmy YamKimmy Yam is a reporter for NBC Asian. “There Were 3,800 Anti-Asian Racist Incidents, Mostly against Women, in Past Year.” NBC News. Accessed   
-March 16, 2021. https://www.nbcnews.com/news/asian-america/there-were-3-800-anti-asian-racist-incidents-mostly-against-n1261257.
 
 “Asian-American Representation Today Is an Investment for Tomorrow.” Accessed February 21, 2021. http://annenberg.usc.edu/research/center-public-relations/usc-annenberg-relevance-report/asian-american-representation-today.
 
@@ -177,9 +174,11 @@ Bureau, US Census. “Asian American and Pacific Islander Heritage Month: May 20
 
 ———. “Asian American and Pacific Islander Heritage Month: May 2020.” The United States Census Bureau. Accessed March 7, 2021. https://www.census.gov/newsroom/facts-for-features/2020/aian.html.
 
+Chin, Christina B., Meera E. Deo, Faustina M. DuCros, Jenny Jong-Hwa Lee, Noriko Milman, and Nancy Wang Yuen. "Tokens on the Small Screen: Asian Americans and Pacific Islanders in Prime Time and Streaming Television." September 2017.
+
 Chong, Christina Shu Jien. “Where Are the Asians in Hollywood? Can §1981, TITLE VII, Colorblind Pitches, and Understanding Biases Break the Bamboo Ceiling?” 21 (n.d.): 53.
 
-https://www.apa.org. “Countering Stereotypes about Asian Americans.” Accessed March 15, 2021. https://www.apa.org/monitor/2019/12/countering-stereotypes.
+Choueiti, Marc, Dr. Katherine Pieper, and Dr. Stacy L. Smith. "Inequality in 1,300 Popular Films: Examining Portrayals of Gender, Race/Ethnicity, LGBTQ & Disability from 2007 to 2019." Annenberg Inclusion Initiative. September 2020. http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf. 
 
 Time. “Crazy Rich Asians Kicked Down the Door. Now Asian Americans Are Fighting to Stay in the Room.” Accessed February 21, 2021. https://time.com/5622913/asian-american-representation-hollywood/.
 
@@ -264,6 +263,9 @@ Welle (www.dw.com), Deutsche. “What Hollywood Movies Do to Perpetuate Racial S
 Wu, Nicholas. “Lawmakers to Introduce Anti-Hate Crime Legislation amid Rise in Anti-Asian Hate and Violence.” USA TODAY. Accessed March 16, 2021. https://www.usatoday.com/story/news/politics/2021/03/11/asian-american-hate-incidents-target-new-legislation-congress/6937841002/.
 
 TV Tropes. “Yellow Peril.” Accessed March 15, 2021. https://tvtropes.org/pmwiki/pmwiki.php/Main/YellowPeril.
+
+Yam, Kimmy. “There Were 3,800 Anti-Asian Racist Incidents, Mostly against Women, in Past Year.” NBC News. Accessed   
+March 16, 2021. https://www.nbcnews.com/news/asian-america/there-were-3-800-anti-asian-racist-incidents-mostly-against-n1261257.
 
 Yu, Brandon, and Justin J. Wee. “A Vision of Asian-American Cinema That Questions the Very Premise.” The New York Times, February 11, 2021, sec. Movies. https://www.nytimes.com/2021/02/11/movies/asian-american-cinema.html.
 
