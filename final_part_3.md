@@ -257,9 +257,9 @@ Turton, Nicholas. “Stop AAPI Hate: New Data on Anti-Asian Hate Incidents Again
 
 Welle (www.dw.com), Deutsche. “What Hollywood Movies Do to Perpetuate Racial Stereotypes | DW | 21.02.2019.” DW.COM. Accessed March 15, 2021. https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660.
 
-———. “What Hollywood Movies Do to Perpetuate Racial Stereotypes | DW | 21.02.2019.” DW.COM. Accessed March 15, 2021. https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660.
+“What Hollywood Movies Do to Perpetuate Racial Stereotypes | DW | 21.02.2019.” DW.COM. Accessed March 15, 2021. https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660.
 
-———. “What Hollywood Movies Do to Perpetuate Racial Stereotypes | DW | 21.02.2019.” DW.COM. Accessed March 16, 2021. https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660.
+“What Hollywood Movies Do to Perpetuate Racial Stereotypes | DW | 21.02.2019.” DW.COM. Accessed March 16, 2021. https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660.
 
 Wu, Nicholas. “Lawmakers to Introduce Anti-Hate Crime Legislation amid Rise in Anti-Asian Hate and Violence.” USA TODAY. Accessed March 16, 2021. https://www.usatoday.com/story/news/politics/2021/03/11/asian-american-hate-incidents-target-new-legislation-congress/6937841002/.
 
