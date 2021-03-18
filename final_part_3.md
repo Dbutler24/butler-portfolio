@@ -179,7 +179,7 @@ Bureau, US Census. “Asian American and Pacific Islander Heritage Month: May 20
 
 ———. “Asian American and Pacific Islander Heritage Month: May 2020.” The United States Census Bureau. Accessed March 7, 2021. https://www.census.gov/newsroom/facts-for-features/2020/aian.html.
 
-Chin, Christina B., Meera E. Deo, Faustina M. DuCros, Jenny Jong-Hwa Lee, Noriko Milman, and Nancy Wang Yuen. "Tokens on the Small Screen: Asian Americans and Pacific Islanders in Prime Time and Streaming Television." September 2017. http://www.aapisontv.com/uploads/3/8/1/3/38136681/aapisontv.2017.pdf.![image](https://user-images.githubusercontent.com/78741996/111561873-91a9b200-876b-11eb-90fe-1489638e3e97.png)
+Chin, Christina B., Meera E. Deo, Faustina M. DuCros, Jenny Jong-Hwa Lee, Noriko Milman, and Nancy Wang Yuen. "Tokens on the Small Screen: Asian Americans and Pacific Islanders in Prime Time and Streaming Television." September 2017. http://www.aapisontv.com/uploads/3/8/1/3/38136681/aapisontv.2017.pdf.![image]
 
 Chong, Christina Shu Jien. “Where Are the Asians in Hollywood? Can §1981, TITLE VII, Colorblind Pitches, and Understanding Biases Break the Bamboo Ceiling?” 21 (n.d.): 53.
 
@@ -195,19 +195,19 @@ Fitzpatrick, Molly. “6 White Actors Who Won Oscars for Playing People of Color
 
 Force, Thessaly La. “Why Do Asian-Americans Remain Largely Unseen in Film and Television?” The New York Times, November 6, 2018, sec. T Magazine. https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html.
 
-“Hate Crimes Targeting Asian Americans Spiked by 150% in Major US Cities | Voice of America - English.” Accessed March 16, 2021. https://www.voanews.com/usa/race-america/hate-crimes-targeting-asian-americans-spiked-150-major-us-cities.
+“Hate Crimes Targeting Asian Americans Spiked by 150% in Major US Cities.” Accessed March 16, 2021. https://www.voanews.com/usa/race-america/hate-crimes-targeting-asian-americans-spiked-150-major-us-cities.
 
 “Hollywood Doesn’t Fully Represent Asian Americans Yet.” Accessed February 22, 2021. https://www.vice.com/en/article/7xggba/hollywood-doesnt-fully-represent-asian-americans-yet.
 
 Izadi, Elahe. “The Oscars Nominated ‘Parasite’ but Looked Right Past Its All-Asian Cast. It’s Part of a Pattern.” Washington Post. Accessed February 28, 2021. https://www.washingtonpost.com/arts-entertainment/2020/02/07/parasite-oscars-asian-actors/.
 
-“Key Facts about Asian Americans | Pew Research Center.” Accessed March 7, 2021. https://www.pewresearch.org/fact-tank/2017/09/08/key-facts-about-asian-americans/.
+“Key Facts about Asian Americans." Pew Research Center. Accessed March 7, 2021. https://www.pewresearch.org/fact-tank/2017/09/08/key-facts-about-asian-americans/.
 
 Lee, Joann. “Asian American Actors in Film, Television and Theater, An Ethnographic Case Study.” Race, Gender & Class 8, no. 4 (2001): 176–84.
 
 Mandell, Andrea. “Oscar Nominations: Asians Are Shut out, Again. So Are Female Directors. What Gives?” USA TODAY. Accessed February 28, 2021. https://www.usatoday.com/story/life/movies/2019/01/22/oscars-nominations-2019-how-did-academy-do-diversity-women/2618677002/.
 
-Monji, Jana. “What to Watch During Asian Pacific American Heritage Month | Far Flungers | Roger Ebert.” https://www.rogerebert.com/. Accessed March 17, 2021. https://www.rogerebert.com/far-flung-correspondents/what-to-watch-during-asian-pacific-american-heritage-month.
+Monji, Jana. “What to Watch During Asian Pacific American Heritage Month." Roger Ebert. https://www.rogerebert.com/. Accessed March 17, 2021. https://www.rogerebert.com/far-flung-correspondents/what-to-watch-during-asian-pacific-american-heritage-month.
 
 Morgan, Thad. “Casting White People in Asian Roles Goes Back Centuries.” HISTORY. Accessed March 15, 2021. https://www.history.com/news/yellowface-whitewashing-in-film-america.
 
@@ -255,11 +255,7 @@ Turton, Nicholas. “Stop AAPI Hate: New Data on Anti-Asian Hate Incidents Again
 
 “UCLA Hollywood Diversity Report 2020.” Accessed March 15, 2021. https://socialsciences.ucla.edu/wp-content/uploads/2020/10/UCLA-Hollywood-Diversity-Report-2020-Television-10-22-2020.pdf.
 
-Welle (www.dw.com), Deutsche. “What Hollywood Movies Do to Perpetuate Racial Stereotypes | DW | 21.02.2019.” DW.COM. Accessed March 15, 2021. https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660.
-
-“What Hollywood Movies Do to Perpetuate Racial Stereotypes | DW | 21.02.2019.” DW.COM. Accessed March 15, 2021. https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660.
-
-“What Hollywood Movies Do to Perpetuate Racial Stereotypes | DW | 21.02.2019.” DW.COM. Accessed March 16, 2021. https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660.
+“What Hollywood Movies Do to Perpetuate Racial Stereotypes.” DW.COM. Accessed March 15, 2021. https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660.
 
 Wu, Nicholas. “Lawmakers to Introduce Anti-Hate Crime Legislation amid Rise in Anti-Asian Hate and Violence.” USA TODAY. Accessed March 16, 2021. https://www.usatoday.com/story/news/politics/2021/03/11/asian-american-hate-incidents-target-new-legislation-congress/6937841002/.
 
