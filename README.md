@@ -18,6 +18,8 @@ I hope to learn how to create effective data visualizations and gain a basic und
 
 [Part II: Final Project](/final_part_2.md)
 
+[Part III: Final Project](/final_part_3.md)
+
 # Class Example 
 In class, we learned how to use the tool Flourish. Here is a visualization of the positive and cumulative cases over time in King County.
 <div class="flourish-embed flourish-chart" data-src="visualisation/5255820"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
