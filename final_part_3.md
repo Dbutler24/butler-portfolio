@@ -137,8 +137,7 @@ One user felt that the chart titles were too "loaded" while another peer said th
 [Return to Portfolio](/README.md)
 
 # Final Shorthand Site
-<script src="https://embed.shorthand.com/embed_10.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/asian-american-and-pacific-islander--aapi--representation-in-film---tv/"><h1>Asian American and Pacific Islander (AAPI) Representation in Film & TV</h1><p>By Daria Butler, Carnegie Mellon University Heinz College, Master of Arts Management Class of 2021</p></div>
+[Visit site here](https://carnegiemellon.shorthandstories.com/asian-american-and-pacific-islander--aapi--representation-in-film---tv/index.html)
 
 # Target Audience and Changes Made to Final Story
 For my final data story, the target audience is the average movie-goer/media consumer. Based on findings from my user research, I have narrowed down this audience to a predominantly non-Asian demographic with a general interest in movies and television. As one of my users said, this story could potentially resonate with creators/filmmakers. However, I, and most users, felt that it's catered more towards the average consumer. 
