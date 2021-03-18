@@ -137,14 +137,14 @@ One user felt that the chart titles were too "loaded" while another peer said th
 [Return to Portfolio](/README.md)
 
 # Final Shorthand Site
-
+https://carnegiemellon.shorthandstories.com/asian-american-and-pacific-islander--aapi--representation-in-film---tv/index.html
 
 # Target Audience and Changes Made to Final Story
 For my final data story, the target audience is the average movie-goer/media consumer. Based on findings from my user research, I have narrowed down this audience to a predominantly non-Asian demographic with a general interest in movies and television. As one of my users said, this story could potentially resonate with creators/filmmakers. However, I, and most users, felt that it's catered more towards the average consumer. 
 
 Given this audience, I made sure to define "AAPI" and clarify what type of film/TV was being looked at in this story: U.S. domestic movies and television. This needed to be specified because film and TV made in Asia, for example, would naturally include more Asian representation. It was unclear to a couple users what exactly this story was measuring. 
 
-Further, I wanted to include a better transition into my final point about the rise in anti-Asian violence, which was feedback I received from some users and peers. Notably, some non-Asian users felt that the violence point was abrupt; however, it should be noted that the Asian-American user felt it was a logical transition and made sense. But since this is meant for a non-Asian audience, I wanted to take their note into consideration. I wanted to find data on the types of AAPI representation that are harmful but I struggled to find specific numbers, so instead I included a list of problematic Asian portrayals and common tropes/stereotypes so the audience at least has some idea of what this kind of negative representation might look like in media. I also included a couple of quotes from Asian-Americans on representation and racial violence, specifically. I think this will help create a bridge to that final visualization. 
+Further, I wanted to include a better transition into my final point about the rise in anti-Asian violence, which was feedback I received from some users and peers. Notably, some non-Asian users felt that the violence point was abrupt; however, it should be noted that the Asian-American user felt it was a logical transition and made sense. But since this is meant for a non-Asian audience, I wanted to take their note into consideration. I tried to find data on the types of AAPI representation that are harmful, but I struggled to find specific numbers, so instead I included a list of problematic Asian portrayals and common tropes/stereotypes so the audience at least has some idea of what this kind of negative representation might look like in media. I also included a couple of quotes from Asian-Americans on representation and racial violence, specifically. I think this will help create a bridge to that final visualization. 
 
 In addition, I chose to visualize the increase in anti-Asian violence differently in the final version. Instead of using a scorecard to state the 
 "1900% increase" statistic, I visualized the increase in incident reports that the coalition Stop AAPI Hate received in 2020. Based on feedback to show the values instead of the percentage, I depicted the increase in numbers, which went from approximately 100 in previous years to at least 30,00 in 2020.
@@ -155,7 +155,9 @@ Moreover, I received several pieces of feedback to make the second call to actio
 
 Visually, I added and swapped in some images that felt more relevant to the topic (One user noted that the top image depicted mostly white people which felt odd for the subject). I tweaked the orientation of some of the text and visualizations and added spacers so that there wouldn't be so much information clumped together. As for color, one peer thought that maybe the color in the graphs matched the background too well, but I didn't receive that feedback from anyone else so I maintained the colors for the sake of consistency. 
 
-My biggest takeaway/observation is, for however much data there already is, there can always be more. There is quite a bit of data on the amounts of representation, but no data on the types of representation. I note in my story that not all representation is good or authentic representation. I would like to see more studies done and data collected on what kinds of representation are out there and the implications of that. 
+One observation I noted along the way is that "fancy" visualizations are not always the most effective. I attempted to visualize the "White Characters Have Three Times As Much Screen Time" data point as a pictorial chart with little cartoon TVs. It may have looked more appealing than a boring bar chart, but when I tested it on a user, they said it was harder to understand the "time" when conveyed with the pictorial chart. I ended up keeping the original bar chart.
+
+However, my biggest takeaway/observation is, for however much data there already is, there can always be more. There is quite a bit of data on the amounts of representation, but pretty much no data on the types of representation. I note in my story that not all representation is good or authentic representation. I would like to see more studies done and data collected on what kinds of representation are out there and the implications of that. 
 
 # References: 
 
