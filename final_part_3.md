@@ -18,9 +18,11 @@ Resolution: Recent movies like "Crazy Rich Asians" and "The Farewell", both with
 [Data Source](https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html)
 
 
+
 [Bar Chart: Amount og Top 100 Films that Erased Asian Girls and Women](/barchart.jpg)
 
 [Data Source](http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf)
+
 
 
 [Films with Zero Asian Speaking Roles](/block.jpg)
@@ -28,14 +30,17 @@ Resolution: Recent movies like "Crazy Rich Asians" and "The Farewell", both with
 [Data Source](http://assets.uscannenberg.org/docs/aii-inequality_1300_popular_films_09-08-2020.pdf)
 
 
+
 [Asian Lead Roles in Film is Disproportionate to Asian Population](/piecharts.jpg)
 
 [Data Source](https://time.com/5622913/asian-american-representation-hollywood/)
 
 
+
 [Asian Population in Popular TV Show Cities](/populations.jpg)
 
 [Data Source](https://www.nytimes.com/2018/11/06/t-magazine/asian-american-actors-representation.html)
+
 
 
 [Rise in Anti-Asian Hate Crimes](/line.jpg)
@@ -150,7 +155,7 @@ For my final data story, the target audience is the average movie-goer/media con
 
 Given this audience, I made sure to define "AAPI" and clarify what type of film/TV was being looked at in this story: U.S. domestic movies and television. This needed to be specified because film and TV made in Asia, for example, would naturally include more Asian representation. It was unclear to a couple users what exactly this story was measuring. 
 
-Further, I wanted to include a better transition into my final point about the rise in anti-Asian violence, which was feedback I received from some users and peers. Notably, some non-Asian users felt that the violence point was abrupt; however, it should be noted that the Asian-American user felt it was a logical transition and made sense. But since this is meant for a non-Asian audience, I wanted to take their note into consideration. I tried to find data on the types of AAPI representation that are harmful, but I struggled to find specific numbers, so instead I included a list of problematic Asian portrayals and common tropes/stereotypes so the audience at least has some idea of what this kind of negative representation might look like in media. I also included a couple of quotes from Asian-Americans on representation and racial violence, specifically. I think this will help create a bridge to that final visualization. 
+Further, I wanted to include a better transition into my final point about the rise in anti-Asian violence, which was feedback I received from some users and peers. Notably, some non-Asian users felt that the violence point was abrupt; however, it should be noted that the Asian-American user I interviewed felt it was a logical transition and made sense. Naturally, it is a point that does not feel abrupt for AAPI folks. But since this is meant for a non-Asian audience, I wanted to take their note into consideration. I tried to find data on the types of AAPI representation that are harmful, but I struggled to find specific numbers, so instead I included a list of problematic Asian portrayals and common tropes/stereotypes so the audience at least has some idea of what this kind of negative representation might look like in media. I also included a couple of quotes from Asian-Americans on representation and racial violence, specifically. I think this will help create a bridge to that final visualization. 
 
 In addition, I chose to visualize the increase in anti-Asian violence differently in the final version. Instead of using a scorecard to state the 
 "1900% increase" statistic, I visualized the increase in incident reports that the coalition Stop AAPI Hate received in 2020. Based on feedback to show the values instead of the percentage, I depicted the increase in numbers, which went from approximately 100 in previous years to at least 30,00 in 2020.
